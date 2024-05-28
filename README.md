@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=hugolizama)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **hugolizama/hugolizama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
